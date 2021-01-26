@@ -1,0 +1,9 @@
+[submodule "Bokudos-front"]
+	path = Bokudos-front
+	url = https://github.com/BadassBison/Bokudos-front.git
+[submodule "Bokudos-server"]
+	path = Bokudos-server
+	url = https://github.com/codymaki/Bokudos-server
+[submodule "Bokudos-stagebuilder"]
+	path = Bokudos-stagebuilder
+	url = https://github.com/BadassBison/Bokudos-stagebuilder
