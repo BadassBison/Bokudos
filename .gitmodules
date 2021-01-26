@@ -1,6 +1,7 @@
 [submodule "Bokudos-front"]
 	path = Bokudos-front
 	url = https://github.com/BadassBison/Bokudos-front
+	branch = master
 [submodule "Bokudos-server"]
 	path = Bokudos-server
 	url = https://github.com/codymaki/Bokudos-server
